@@ -1,2 +1,6 @@
-# newtest
-testing git knowledge
+# learning git
+##this repo was used ti learn git from amigoscode
+
+https://amigoscode.com/courses/git#github
+
+![download (29)](https://user-images.githubusercontent.com/103376339/176678982-db32b168-78b3-44f8-a493-a06a5434f420.png)
